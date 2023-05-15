@@ -16,6 +16,7 @@ Main features:
  - JS, HTML, CSS, SQL
  - Docker, Docker-compose, Podman (with kubernetes.yml)
  - Postgres
+ - REST, gRPC
 
 ## ✅ Complete projects with public access
 
