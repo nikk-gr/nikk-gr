@@ -13,8 +13,10 @@ Main features:
 
 ## ⚒️ My technical stack is 
  - Golang
+ - OpenAPI / Swagger
  - JS, HTML, CSS, SQL
  - Docker, Docker-compose, Podman (with kubernetes.yml)
+ - nginx
  - Postgres
  - REST, gRPC
 
