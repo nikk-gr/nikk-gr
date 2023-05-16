@@ -4,13 +4,6 @@ Currently employed in the russian brunch of Komfovent.
 Generally works with microservice architecture. 
 Chef design engineer in the past.
 
-I'm currently working on a web application for interaction with counterparties. 
-Main features:
- - Making and storing commercial proposals based on the requests
- - Making up of air handling units from available parts based on required operating point
- - Drawing up a datasheet, specification and technical drawing based on the result of previous step
- - Sending a commercial proposal and specification to the ERP system
-
 ## ⚒️ My technical stack is 
  - Golang
  - OpenAPI / Swagger
