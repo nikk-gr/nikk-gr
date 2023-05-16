@@ -14,7 +14,7 @@ Chef design engineer in the past.
  - REST, gRPC
 
 ## ✅ Complete projects with public access
-
+(not for mobile)
 ### [OTD Selector](https://otd.komfovent-ru.ru)
 OTD Selector is a web application for selection of mass—produced AHU and Drawing up a datasheet based on request.
 OTD is a commercial name of the series
